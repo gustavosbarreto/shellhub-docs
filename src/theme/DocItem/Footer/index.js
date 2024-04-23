@@ -58,10 +58,10 @@ export default function DocItemFooter() {
       <Giscus
         loading='async'
         crossorigin='true'
-        repo='shellhub-io/shellhub'
-        repoId='MDEwOlJlcG9zaXRvcnkxODcwNzg2MzE='
+        repo='gustavosbarreto/test'
+        repoId='R_kgDOLySkvA'
         category='General'
-        categoryId='MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyMDA1MjEy'
+        categoryId='DIC_kwDOLySkvM4Ce409'
         mapping='title'
         strict='0'
         reactionsEnabled='1'
